@@ -1,7 +1,7 @@
 # Wedding Organizer
 
 ## Short Description
-Wedding Organizer adalah aplikasi berbasis web yang dirancang untuk mempermudah pengguna dalam mencari dan memesan jasa wedding organizer. Aplikasi ini memiliki fitur registrasi, login, pencarian wedding organizer, serta pembayaran.
+Wedding Organizer adalah aplikasi berbasis desktop yang dirancang untuk mempermudah pengguna dalam mencari dan memesan jasa wedding organizer. Aplikasi ini memiliki fitur registrasi, login, pencarian wedding organizer, serta pembayaran.
 
 ## Features
 ### 1. Admin
@@ -19,8 +19,9 @@ Wedding Organizer adalah aplikasi berbasis web yang dirancang untuk mempermudah 
 - Melakukan pembayaran
 
 ## Technologies Used
-- **Framework:** CodeIgniter 3
-- **Frontend:** HTML, CSS, Bootstrap
+- **Programming Language:** Java
+- **GUI Framework:** Swing
+- **IDE:** NetBeans
 - **Database:** MySQL
 
 ## Installation
@@ -28,11 +29,10 @@ Wedding Organizer adalah aplikasi berbasis web yang dirancang untuk mempermudah 
    ```bash
    git clone https://github.com/sryaerlmba/wedding-organizer.git
    ```
-2. Pindah ke folder proyek:
-   ```bash
-   cd wedding-organizer
-   ```
-3. Konfigurasi database di `application/config/database.php`
+2. Pindah ke folder proyek di NetBeans.
+3. Konfigurasi database di kode sesuai dengan MySQL yang digunakan.
+4. Jalankan aplikasi melalui NetBeans.
 
 ## Contributing
 Jika ingin berkontribusi, silakan buat pull request atau hubungi pengembang.
+
