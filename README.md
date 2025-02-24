@@ -3,6 +3,8 @@
 ## Short Description
 Wedding Organizer adalah aplikasi berbasis desktop yang dirancang untuk mempermudah pengguna dalam mencari dan memesan jasa wedding organizer. Aplikasi ini memiliki fitur registrasi, login, pencarian wedding organizer, serta pembayaran.
 
+Aplikasi ini dikembangkan sebagai proyek akhir semester 4 untuk mata kuliah **Object Oriented Programming**.
+
 ## Features
 ### 1. Admin
 - Melihat data pembayaran
@@ -35,4 +37,3 @@ Wedding Organizer adalah aplikasi berbasis desktop yang dirancang untuk mempermu
 
 ## Contributing
 Jika ingin berkontribusi, silakan buat pull request atau hubungi pengembang.
-
